@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Joeldal3
-- 👀 I’m interested in learning HTML5, CSS, Python
-- 🌱 I’m currently learning HTML5, CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m a beast on HTML5, CSS
+- 🌱 I’m currently learning Javascript 
+- 💞️ I’m looking to collaborate on projects that will change the world.
+- 📫 How to reach me email: joeldwilliams95@gmail.com
+                      IG: joeldal3
 
 <!---
 Joeldal3/Joeldal3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
